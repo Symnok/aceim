@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "aceim.protocol.snuk182.mrim"
-        minSdkVersion 5
+        minSdkVersion 9
         targetSdkVersion 30
         versionCode 3
         versionName "0.9.3"
