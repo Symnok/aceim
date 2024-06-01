@@ -135,7 +135,7 @@ public final class ResourceUtils {
 	public static final ProtocolOption[] OPTIONS = { 
 			new ProtocolOption(ProtocolOptionType.DOUBLE, KEY_USERNAME, null, R.string.uin, true),
 			new ProtocolOption(ProtocolOptionType.PASSWORD, KEY_PASSWORD, null, R.string.password, true), 
-			new ProtocolOption(ProtocolOptionType.STRING, KEY_LOGIN_HOST, "login.icq.com", R.string.host, false),
+			new ProtocolOption(ProtocolOptionType.STRING, KEY_LOGIN_HOST, "kicq.ru", R.string.host, false),
 			new ProtocolOption(ProtocolOptionType.INTEGER, KEY_LOGIN_PORT, "5190", R.string.port, false), 
 			new ProtocolOption(ProtocolOptionType.INTEGER, KEY_PING_TIMEOUT, "200", R.string.ping, false),
 			new ProtocolOption(ProtocolOptionType.CHECKBOX, KEY_SECURE_LOGIN, "true", R.string.secure, false) 
